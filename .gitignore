@@ -1,0 +1,8 @@
+Resources/__pycache__
+results
+*.png
+*.html
+*.xml
+*.pyc
+*.out
+.pabotsuitenames
